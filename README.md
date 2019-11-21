@@ -9,7 +9,7 @@ A [babette example](https://github.com/richelbilderbeek/babette_examples).
 
 ## Example #7: HKY site model with a non-zero proportion of invariants
 
-![Example #7: HKY site model with a non-zero proportion of invariants](hky_prop_invariant_0_5_2_4.png)
+![Example #7: HKY site model with a non-zero proportion of invariants](pics/hky_prop_invariant_0_5_2_4.png)
 
 ```{r}
 posterior <- bbt_run(
